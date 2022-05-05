@@ -1,5 +1,5 @@
 # ExtraPNG
-[Official website](http://lochunto.github.io/ExtraPNG/)
+[Official website](https://lochunto.github.io/ExtraPNG/)
 
 ![](ExtraPNG.png)
 
